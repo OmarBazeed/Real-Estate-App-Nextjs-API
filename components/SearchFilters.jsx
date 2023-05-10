@@ -19,6 +19,9 @@ export default function SearchFilters() {
   const [loading, setLoading] = useState(false);
   const router = useRouter();
 
+  console.log(router);
+
+
   const searchProperties = (filterValues) => {
     const path = router.pathname;
     const { query } = router;
@@ -38,7 +41,7 @@ export default function SearchFilters() {
   };
 
   useEffect(() => {
-    console.log(locationData.length)
+
     if (searchTerm !== '') {
       const fetchData = async () => {
         setLoading(true);

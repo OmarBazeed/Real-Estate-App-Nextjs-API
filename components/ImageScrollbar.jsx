@@ -37,7 +37,12 @@ const RightArrow = () => {
 }
 export default function ImageSrollbar({ data }) {
   return (
-    <ScrollMenu LeftArrow={LeftArrow} RightArrow={RightArrow} style={{ overflow: 'hidden' }} >
+    <ScrollMenu
+      LeftArrow={LeftArrow}
+      RightArrow={RightArrow}
+      style={{ overflow: 'hidden' }}
+      id="react-horizonatl-scrolling-menu"
+    >
 
       {data.map((item) => (
 
