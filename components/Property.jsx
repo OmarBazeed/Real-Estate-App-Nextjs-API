@@ -13,7 +13,7 @@ import styles from "../styles/property.module.css"
 
 const Property = ({ property: { coverPhoto, price, rentFrequency, rooms, title, baths, area, agency, isVerified, externalID } }) => (
   <Link href={`/property/${externalID}`} passHref >
-    <Flex flexWrap='wrap' w='420px' p='5' paddingTop='0px' marginTop="10px" marginRight="5px" justifyContent='flex-start' cursor='pointer' className={styles.property} >
+    <Flex flexWrap='wrap' w='420px' p='5' paddingTop='10px' marginTop="10px" marginRight="5px" justifyContent='flex-start' cursor='pointer' className={styles.property} >
       <Box>
         <Image src={coverPhoto ? coverPhoto.url : DefaultImage} width={400} height={260} className={styles.img} />
       </Box>
