@@ -18,7 +18,7 @@
    ``` 
   ---------------------------------------------------------------------------------------------------------------
  ### Live Demo : 
- [Real-Estate-App](https://ob-real-estate-app-nextjs-api.onrender.com)
+ [Real-Estate-App](https://ob-real-estate-nextjs-api.netlify.app/)
  
  ---------------------------------------------------------------------------------------------------------------
  ### Live Pictures :
