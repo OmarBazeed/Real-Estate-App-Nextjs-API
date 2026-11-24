@@ -5,7 +5,7 @@
  + Using `react-horizontal-scrolling-menu` For Adding Nice Images Slider With Arrows ..
  + Using `nprogress` For Adding An Animated Loading For Each Page Or Whenever The Router Change ... 
  + Using `react-icons` For Adding Different Icons In Our Application.. 
- + You Can Find The API Link We Use Here ---> (https://rapidapi.com/apidojo/api/bayut)
+ + You Can Find The API Link We Use Here ---> (https://rapidapi.com/apidojo/api/bayut). That API is no longer available, so the demo now runs on bundled sample data (utils/fetchApi.js, utils/properties.json) and needs no API key
  + Go And Take A Look Then Go For Coding...
  ---------------------------------------------------------------------------------------------------------------
  ### Installation Requierments :

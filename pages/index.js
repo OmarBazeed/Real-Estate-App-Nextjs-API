@@ -35,7 +35,7 @@ const Home = ({ propertiesForSale, propertiesForRent }) => (
       desc2='and more'
       buttonText='Explore Renting'
       linkName='/search?purpose=for-rent'
-      imageUrl='https://bayut-production.s3.eu-central-1.amazonaws.com/image/145426814/33973352624c48628e41f2ec460faba4'
+      imageUrl='https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop'
     />
     <Flex flexWrap='wrap'>
       {propertiesForRent.map((property) => <Property property={property} key={property.id} />)}
@@ -48,7 +48,7 @@ const Home = ({ propertiesForSale, propertiesForRent }) => (
       desc2=' villas and more'
       buttonText='Explore Buying'
       linkName='/search?purpose=for-sale'
-      imageUrl='https://bayut-production.s3.eu-central-1.amazonaws.com/image/110993385/6a070e8e1bae4f7d8c1429bc303d2008'
+      imageUrl='https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop'
     />
     <Flex flexWrap='wrap'>
       {propertiesForSale.map((property) => <Property property={property} key={property.id} />)}
