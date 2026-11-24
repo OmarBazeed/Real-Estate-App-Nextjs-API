@@ -1,0 +1,710 @@
+[
+ {
+  "id": 1,
+  "externalID": "1000",
+  "title": "Spacious Family Villa with Garden",
+  "price": 95000,
+  "rooms": 3,
+  "baths": 2,
+  "area": 1800,
+  "purpose": "for-rent",
+  "rentFrequency": "yearly",
+  "isVerified": true,
+  "type": "Apartment",
+  "furnishingStatus": "furnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Spacious Family Villa with Garden offering 3 bedrooms and 2 bathrooms across 1800 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "externalID": "1001",
+  "title": "Modern Lakeside Residence",
+  "price": 120000,
+  "rooms": 4,
+  "baths": 3,
+  "area": 2400,
+  "purpose": "for-rent",
+  "rentFrequency": "yearly",
+  "isVerified": true,
+  "type": "Villa",
+  "furnishingStatus": "unfurnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Modern Lakeside Residence offering 4 bedrooms and 3 bathrooms across 2400 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     },
+     {
+      "text": "Security"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "externalID": "1002",
+  "title": "Waterfront Home with Private Dock",
+  "price": 150000,
+  "rooms": 5,
+  "baths": 4,
+  "area": 3200,
+  "purpose": "for-rent",
+  "rentFrequency": "yearly",
+  "isVerified": false,
+  "type": "Villa",
+  "furnishingStatus": "furnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Waterfront Home with Private Dock offering 5 bedrooms and 4 bathrooms across 3200 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     },
+     {
+      "text": "Security"
+     },
+     {
+      "text": "Gym"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "externalID": "1003",
+  "title": "Bright Open-Plan Apartment",
+  "price": 65000,
+  "rooms": 2,
+  "baths": 2,
+  "area": 1100,
+  "purpose": "for-rent",
+  "rentFrequency": "yearly",
+  "isVerified": true,
+  "type": "Apartment",
+  "furnishingStatus": "unfurnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Bright Open-Plan Apartment offering 2 bedrooms and 2 bathrooms across 1100 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "externalID": "1004",
+  "title": "Luxury Living Room Apartment",
+  "price": 78000,
+  "rooms": 2,
+  "baths": 1,
+  "area": 1250,
+  "purpose": "for-rent",
+  "rentFrequency": "yearly",
+  "isVerified": true,
+  "type": "Apartment",
+  "furnishingStatus": "furnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Luxury Living Room Apartment offering 2 bedrooms and 1 bathrooms across 1250 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     },
+     {
+      "text": "Security"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "externalID": "1005",
+  "title": "Hilltop Villa with Sea View",
+  "price": 210000,
+  "rooms": 6,
+  "baths": 5,
+  "area": 4200,
+  "purpose": "for-rent",
+  "rentFrequency": "yearly",
+  "isVerified": false,
+  "type": "Villa",
+  "furnishingStatus": "unfurnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Hilltop Villa with Sea View offering 6 bedrooms and 5 bathrooms across 4200 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     },
+     {
+      "text": "Security"
+     },
+     {
+      "text": "Gym"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "externalID": "1006",
+  "title": "Elegant Suburban House",
+  "price": 1800000,
+  "rooms": 4,
+  "baths": 3,
+  "area": 2600,
+  "purpose": "for-sale",
+  "rentFrequency": null,
+  "isVerified": true,
+  "type": "Villa",
+  "furnishingStatus": "furnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Elegant Suburban House offering 4 bedrooms and 3 bathrooms across 2600 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "externalID": "1007",
+  "title": "Rustic Villa on a Large Plot",
+  "price": 2650000,
+  "rooms": 5,
+  "baths": 4,
+  "area": 3400,
+  "purpose": "for-sale",
+  "rentFrequency": null,
+  "isVerified": true,
+  "type": "Villa",
+  "furnishingStatus": "unfurnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Rustic Villa on a Large Plot offering 5 bedrooms and 4 bathrooms across 3400 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     },
+     {
+      "text": "Security"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "externalID": "1008",
+  "title": "Renovated Apartment with Large Kitchen",
+  "price": 950000,
+  "rooms": 3,
+  "baths": 2,
+  "area": 1700,
+  "purpose": "for-sale",
+  "rentFrequency": null,
+  "isVerified": false,
+  "type": "Apartment",
+  "furnishingStatus": "furnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Renovated Apartment with Large Kitchen offering 3 bedrooms and 2 bathrooms across 1700 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     },
+     {
+      "text": "Security"
+     },
+     {
+      "text": "Gym"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "externalID": "1009",
+  "title": "Charming Cottage with Lawn",
+  "price": 3400000,
+  "rooms": 6,
+  "baths": 5,
+  "area": 4800,
+  "purpose": "for-sale",
+  "rentFrequency": null,
+  "isVerified": true,
+  "type": "Villa",
+  "furnishingStatus": "unfurnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Charming Cottage with Lawn offering 6 bedrooms and 5 bathrooms across 4800 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "externalID": "1010",
+  "title": "Contemporary Beachfront Duplex",
+  "price": 780000,
+  "rooms": 2,
+  "baths": 2,
+  "area": 1200,
+  "purpose": "for-sale",
+  "rentFrequency": null,
+  "isVerified": true,
+  "type": "Apartment",
+  "furnishingStatus": "furnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Contemporary Beachfront Duplex offering 2 bedrooms and 2 bathrooms across 1200 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     },
+     {
+      "text": "Security"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "externalID": "1011",
+  "title": "Colourful Townhouse in a Quiet Street",
+  "price": 1450000,
+  "rooms": 4,
+  "baths": 3,
+  "area": 2200,
+  "purpose": "for-sale",
+  "rentFrequency": null,
+  "isVerified": false,
+  "type": "Villa",
+  "furnishingStatus": "unfurnished",
+  "coverPhoto": {
+   "url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=400&h=260&fit=crop"
+  },
+  "photos": [
+   {
+    "id": 0,
+    "url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 1,
+    "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 2,
+    "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   },
+   {
+    "id": 3,
+    "url": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=1000&h=500&fit=crop"
+   }
+  ],
+  "agency": {
+   "logo": {
+    "url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop"
+   }
+  },
+  "description": "Sample listing for the demo. Colourful Townhouse in a Quiet Street offering 4 bedrooms and 3 bathrooms across 2200 sqft, close to schools, shops and public transport.",
+  "amenities": [
+   {
+    "amenities": [
+     {
+      "text": "Central A/C"
+     },
+     {
+      "text": "Balcony"
+     },
+     {
+      "text": "Parking"
+     },
+     {
+      "text": "Security"
+     },
+     {
+      "text": "Gym"
+     }
+    ]
+   }
+  ]
+ }
+]
